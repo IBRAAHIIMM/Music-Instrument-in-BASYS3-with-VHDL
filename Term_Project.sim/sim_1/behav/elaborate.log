@@ -1,0 +1,15 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto b157c4781eb94fe5bc32b69f2eb0e239 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot default_song_TB_behav xil_defaultlib.default_song_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.default_note_player [default_note_player_default]
+Compiling architecture behavioral of entity xil_defaultlib.default_song_tb
+Built simulation snapshot default_song_TB_behav

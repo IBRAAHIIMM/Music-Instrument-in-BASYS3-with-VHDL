@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon Apr 05 23:09:56 2021
+# Process ID: 9532
+# Current directory: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18040 D:\OLD Desktops\Desktop Karadere\Vivado Projects\Term_Project\Term_Project.xpr
+# Log file: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/vivado.log
+# Journal file: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/Term_Project.xpr}

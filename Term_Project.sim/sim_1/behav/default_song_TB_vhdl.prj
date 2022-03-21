@@ -1,0 +1,24 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/Sinus_creater.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/harmonic_adder.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/instrument_notes.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/sinus_clock.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/Top.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/VGA_TOP.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/PLAY_MODULE.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/SYNC.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/RGB_SELECT.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/DEFAULT_SONG_PLAYER.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/MAIN_MENU.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/SCREEN_SEL_FSM.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/Instrument_TOP.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/sawtooth_wave_generator.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sources_1/new/Sawtooth_adder.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sim_1/new/pwm2_TB.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sim_1/new/Sinus_creater_TB.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sim_1/new/Top_Module_TB.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sim_1/new/Default_player_TB.vhd"
+vhdl xil_defaultlib  "../../../Term_Project.srcs/sim_1/new/default_TB.vhd"
+
+# Do not sort compile order
+nosort

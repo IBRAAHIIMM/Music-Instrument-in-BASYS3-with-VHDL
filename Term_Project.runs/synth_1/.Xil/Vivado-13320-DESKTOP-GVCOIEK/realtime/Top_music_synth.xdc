@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:{D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/Term_Project.srcs/constrs_1/new/MUSIC_TOP_CONST.xdc} rfile:../../../../../Term_Project.srcs/constrs_1/new/MUSIC_TOP_CONST.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+create_clock -period 10.000 -name sys_clk_pin -waveform {0.000 5.000} -add [get_ports clk]

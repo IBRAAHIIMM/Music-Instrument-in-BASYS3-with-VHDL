@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Dec 25 02:31:12 2020
+# Process ID: 3804
+# Current directory: C:/Users/karadere/Vivado Projects/Term_Project/Term_Project.runs/impl_1
+# Command line: vivado.exe -log Instrument_TOP.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Instrument_TOP.tcl -notrace
+# Log file: C:/Users/karadere/Vivado Projects/Term_Project/Term_Project.runs/impl_1/Instrument_TOP.vdi
+# Journal file: C:/Users/karadere/Vivado Projects/Term_Project/Term_Project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Instrument_TOP.tcl -notrace

@@ -1,0 +1,110 @@
+/*
+
+Vivado v2016.4 (64-bit)
+SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+Process ID: 13028
+
+Current time: 	3/22/22 3:33:23 AM SGT
+Time zone: 	Singapore Time (Asia/Singapore)
+
+OS: Windows 10
+Version: 10.0
+Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	C:/Xilinx/Vivado/2016.4/tps/win64/jre
+
+User name: 	ibrahim
+User home directory: C:/Users/ibrahim
+User working directory: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project
+User country: 	TR
+User language: 	tr
+User locale: 	tr_TR
+
+RDI base root directory: C:/Xilinx/Vivado
+RDI data directory: C:/Xilinx/Vivado/2016.4/data
+RDI bin directory: C:/Xilinx/Vivado/2016.4/bin
+
+Vivado preferences path: C:/Users/ibrahim/AppData/Roaming/Xilinx/Vivado/2016.4/vivado.ini
+Vivado layouts directory: C:/Users/ibrahim/AppData/Roaming/Xilinx/Vivado/2016.4/layouts
+
+GUI allocated memory:	202 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 512 MB
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: D:\OLD Desktops\Desktop Karadere\Vivado Projects\Term_Project\Term_Project.xpr. Version: Vivado v2016.4 
+// bt:g (cd:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// Tcl Message: open_project {D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/Term_Project.xpr} 
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 35 MB (+33832kb) [00:00:05]
+// [Engine Memory]: 413 MB (+281991kb) [00:00:05]
+// Tcl Message: open_project {D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/Term_Project.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 37 MB (+405kb) [00:00:07]
+// [Engine Memory]: 494 MB (+63185kb) [00:00:07]
+// [GUI Memory]: 55 MB (+17488kb) [00:00:07]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 515 MB. GUI used memory: 33 MB. Current time: 3/22/22 3:33:24 AM SGT
+// Project name: Term_Project; location: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bt:g (cd:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// [Engine Memory]: 519 MB (+303kb) [00:00:11]
+// Elapsed time: 46 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd)]", 3); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), audio_generate - adder_sine - Behavioral (harmonic_adder.vhd)]", 4); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), audio_generate - adder_sine - Behavioral (harmonic_adder.vhd), secondharmonic - wave_producer - Behavioral (Sinus_creater.vhd)]", 6); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), audio_generate - adder_sine - Behavioral (harmonic_adder.vhd), firstharmonic - wave_producer - Behavioral (Sinus_creater.vhd)]", 5); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), sawtooth_ad - Sawtooth_adder - Behavioral (Sawtooth_adder.vhd)]", 10); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), sawtooth_ad - Sawtooth_adder - Behavioral (Sawtooth_adder.vhd), firstharm - sawtooth_generator - Behavioral (sawtooth_wave_generator.vhd)]", 11); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), music - Top_music - Behavioral (Top.vhd), sawtooth_ad - Sawtooth_adder - Behavioral (Sawtooth_adder.vhd), secondharm - sawtooth_generator - Behavioral (sawtooth_wave_generator.vhd)]", 13); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Instrument_TOP - Behavioral (Instrument_TOP.vhd), vga_t - VGA_TOP - Behavioral (VGA_TOP.vhd)]", 2); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 23); // y:i (D:JPanel, cd:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Disabled Sources]", 21, true); // y:i (D:JPanel, cd:JFrame) - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1]", 24); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, default_song_TB - Behavioral (Default_player_TB.vhd)]", 25); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, Instrument_TOP - Behavioral (Instrument_TOP.vhd)]", 27); // y:i (D:JPanel, cd:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, Instrument_TOP - Behavioral (Instrument_TOP.vhd), vga_t - VGA_TOP - Behavioral (VGA_TOP.vhd)]", 28); // y:i (D:JPanel, cd:JFrame)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Synthesis, Run Synthesis]", 17, false); // u:K (t:D, cd:JFrame)
+// Run Command: PAResourceCommand.PACommandNames_RUN_SYNTHESIS
+// f:q (cd:JFrame): Launch Runs: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a:JButton (JPanel:JComponent, f:q)
+// y:aO (cd:JFrame): Run Synthesis: addNotify
+dismissDialog("Launch Runs"); // f:q (cd:JFrame)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a:JButton (JPanel:JComponent, y:aO)
+// bt:g (cd:JFrame):  Resetting Runs : addNotify
+dismissDialog("Run Synthesis"); // y:aO (cd:JFrame)
+// TclEventType: RUN_MODIFY
+// TclEventType: RUN_RESET
+// TclEventType: RUN_MODIFY
+// Tcl Message: reset_run synth_1 
+// bt:g (cd:JFrame):  Starting Design Runs : addNotify
+// TclEventType: RUN_LAUNCH
+// TclEventType: RUN_MODIFY
+// Tcl Message: launch_runs synth_1 -jobs 4 
+// Tcl Message: [Tue Mar 22 03:34:40 2022] Launched synth_1... Run output will be captured here: D:/OLD Desktops/Desktop Karadere/Vivado Projects/Term_Project/Term_Project.runs/synth_1/runme.log 
+// 'k' command handler elapsed time: 4 seconds
+dismissDialog("Starting Design Runs"); // bt:g (cd:JFrame)
+// HMemoryUtils.trashcanNow. Engine heap size: 535 MB. GUI used memory: 34 MB. Current time: 3/22/22 3:34:43 AM SGT
